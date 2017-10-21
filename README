@@ -1,1 +1,19 @@
+#Based off Shell Lab from UChicago CMSC 15400: Intro to Computer Systems
+
+About:
 A rudimentary shell built with C that implements basic file system navigation as well as background and foreground process scheduling.
+
+To compile, run:
+	linux> make
+
+Then to start, run:
+	linux> ./myshell
+
+******
+Files:
+******
+
+Makefile	Builds the shell
+myshell.c	The shell
+myshell		Executable shell file
+README		This file
